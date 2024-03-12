@@ -13,7 +13,7 @@ public class MakeSnowmanHelper : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        hatsCollected = 0;
     }
 
     // Update is called once per frame
